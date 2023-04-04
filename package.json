@@ -10,7 +10,7 @@
     "start": "ts-node ./dist/server.js"
   },
   "author": "ewerton11",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "devDependencies": {
     "@types/eslint": "^8.21.1",
     "@types/express": "^4.17.15",
