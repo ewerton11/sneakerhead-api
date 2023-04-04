@@ -1,0 +1,5 @@
+# Files and directories to ignore related to Node.js dependencies
+node_modules
+
+# Files and directories to ignore related to builds and artifact distribution
+dist
