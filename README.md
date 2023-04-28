@@ -5,17 +5,17 @@
 
 <h2>Project description</h2>
 
-> This API is aimed at sneakerhead culture enthusiasts and aims to help them save money on their favorite sneaker purchases. It uses web scraping techniques to collect data from multiple online stores, allowing users to compare prices and identify the best deals. Additionally, the API maintains a price history for each shoe model, allowing users to see price fluctuations over time and identify opportunities to buy at the right time.
+This API is aimed at sneakerhead culture enthusiasts and aims to help them save money on their favorite sneaker purchases. It uses web scraping techniques to collect data from multiple online stores, allowing users to compare prices and identify the best deals. Additionally, the API maintains a price history for each shoe model, allowing users to see price fluctuations over time and identify opportunities to buy at the right time.
 
 ## How to use
 
-> To run the API, you need to have Docker and Docker Compose installed on your machine.
+To run the API, you need to have Docker and Docker Compose installed on your machine.
 
-> To build the API images, run the following command in the project's root directory:
+To build the API images, run the following command in the project's root directory:
 
 `$ docker-compose up --build`
 
-> This command will build the necessary images to run the API.
+This command will build the necessary images to run the API.
 
 ## Examples of Requests
 
